@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ssm_layuiday01" />
+        <module name="ssm_k0508_hotel" />
+        <module name="ssm_layuiday04" />
+        <module name="ssm_layuiday03" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
